@@ -1,0 +1,9 @@
+{
+	"name": "adf-rahul-001",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ceaa74c8-8806-499c-974f-e8df777fd72d",
+		"tenantId": "12ef6f26-f1aa-473f-b109-689e837a144a"
+	}
+}
